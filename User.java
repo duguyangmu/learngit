@@ -8,4 +8,8 @@ public class User{
 	public void getId(){
 		return id;
 	}
+	
+	public static void main(String[] args){
+		System.out.println("hello world!");
+	}
 }
