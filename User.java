@@ -14,6 +14,6 @@ public class User{
 	}
 	
 	public void sayHello(){
-		System.out.println("you are");
+		System.out.println("you are laji");
 	}
 }
